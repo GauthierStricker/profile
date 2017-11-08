@@ -63,6 +63,20 @@ table {
   }
 }
 /*CSS Style - Custom Class and Id*/
+#sidebar {
+  position: fixed;
+  width: 200px;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  background-color: #394147;
+  text-align: center;
+}
+
+#page-content {
+  margin-left: 200px;
+}
+
 .card{
   background: #ffffff;
   margin-bottom: 15px;
@@ -99,4 +113,8 @@ table {
 
 .font-size-30 {
   font-size: 30px;
+}
+
+.color-baby-white {
+  color: #7D7D7D;
 }
