@@ -71,6 +71,7 @@ table {
   bottom: 0;
   background-color: #394147;
   text-align: center;
+  box-shadow: 2px 0px 5px 1px #656565;
 }
 
 #page-content {
@@ -116,5 +117,5 @@ table {
 }
 
 .color-baby-white {
-  color: #7D7D7D;
+  color: #FFFEFC;
 }
